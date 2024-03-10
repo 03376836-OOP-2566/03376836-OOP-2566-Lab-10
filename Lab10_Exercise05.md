@@ -1,11 +1,11 @@
-# Lab 10 Exercise 2
+# Lab 10 Exercise 5
 
 ## 
 
 1.สร้าง console application project
 
 ```cmd
-dotnet new console --name Lab10_Ex02
+dotnet new console --name Lab10_Ex05
 ```
 
 2.เปลี่ยน code ให้เป็นดังต่อไปนี้
@@ -17,28 +17,33 @@ var triangle = new Triangle();
 
 class Shape
 {
-    public Shape()
+    private int? NumOfSide;
+    private Shape()
     {
-        System.Console.WriteLine("This is some shape");
+    }
+    public Shape(int NumOfSide) : this()
+    {
+       this.NumOfSide = NumOfSide;
+        System.Console.WriteLine($"This is some shape with {NumOfSide} sides" );
     }
 }
 class Circle :Shape
 {
-    public Circle()
+    public Circle():base(0)
     {
         System.Console.WriteLine("This is a circle");
     }
 }
 class Rectangle :Shape
 {
-    public Rectangle()
+    public Rectangle(): base(4)
     {
         System.Console.WriteLine("This is a rectangle");
     }
 }
 class Triangle :Shape
 {
-   public Triangle()
+   public Triangle() : base( ) // Hint: add number of size as parameters
     {
         System.Console.WriteLine("This is a triangle");
     }
@@ -48,7 +53,7 @@ class Triangle :Shape
 3.Build project โดยการใช้คำสั่ง
 
 ```cmd
-dotnet build  Lab10_Ex02
+dotnet build  Lab10_Ex05
 ```
 
 ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
@@ -58,7 +63,7 @@ dotnet build  Lab10_Ex02
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
-dotnet run --project Lab10_Ex02
+dotnet run --project Lab10_Ex05
 ```
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
