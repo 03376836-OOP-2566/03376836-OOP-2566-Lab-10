@@ -1,6 +1,6 @@
 # Lab 10 Exercise 2
 
-## 
+## Constructor ใน derived class
 
 1.สร้าง console application project
 

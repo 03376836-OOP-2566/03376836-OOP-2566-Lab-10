@@ -1,6 +1,6 @@
 # Lab 10 Exercise 3
 
-## 
+## การส่งค่าไปยัง constructor ของ base class
 
 1.สร้าง console application project
 

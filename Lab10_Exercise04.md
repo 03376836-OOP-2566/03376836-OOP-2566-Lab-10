@@ -1,6 +1,6 @@
 # Lab 10 Exercise 14
 
-## 
+## private constructor
 
 1.สร้าง console application project
 

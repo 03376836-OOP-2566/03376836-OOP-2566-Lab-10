@@ -1,6 +1,6 @@
 # Lab 10 Exercise 5
 
-## 
+## การเรียก constructor ด้วย keyword `this`
 
 1.สร้าง console application project
 
