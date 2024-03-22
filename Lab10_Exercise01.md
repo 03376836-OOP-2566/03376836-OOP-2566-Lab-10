@@ -7,6 +7,7 @@
 ```cmd
 dotnet new console --name Lab10_Ex01
 ```
+![image](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-10/assets/144197034/ba803b81-3cab-4e5e-80ca-ce2597000432)
 
 2.เปลี่ยน code ให้เป็นดังต่อไปนี้
 
@@ -45,6 +46,8 @@ class Triangle
     }
 }
 ```
+![image](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-10/assets/144197034/1d30132e-4c8e-4ebe-b842-ed24d1b23e73)
+![image](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-10/assets/144197034/8f418d32-7ac1-46e9-8bf6-94d72a04bca7)
 
 3.Build project โดยการใช้คำสั่ง
 
@@ -55,6 +58,7 @@ dotnet build  Lab10_Ex01
 ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+![image](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-10/assets/144197034/58c5304c-c9cd-4465-b4af-ceceb94b0f98)
 
 5.Run project โดยการใช้คำสั่ง
 
@@ -63,5 +67,16 @@ dotnet run --project Lab10_Ex01
 ```
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+![image](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-10/assets/144197034/0abd6d63-9dd3-4283-bdd1-24fafe351764)
 
 7.อธิบายสิ่งที่พบในการทดลอง
+
+การทดลองนี้เป็นการสร้างอ็อบเจกต์ของคลาสทั้ง 4 คลาส: Shape, Circle, Rectangle, และ Triangle และเมื่อสร้างอ็อบเจกต์แต่ละตัว จะมีการแสดงข้อความที่ถูกนิยามในคอนสตรักเตอร์ของแต่ละคลาส
+เมื่อสร้างอ็อบเจกต์ของ Shape จะแสดงข้อความ "This is some shape"
+
+เมื่อสร้างอ็อบเจกต์ของ Circle จะแสดงข้อความ "This is a circle"
+
+เมื่อสร้างอ็อบเจกต์ของ Rectangle จะแสดงข้อความ "This is a rectangle"
+
+เมื่อสร้างอ็อบเจกต์ของ Triangle จะแสดงข้อความ "This is a triangle"
+เราจะเห็นการแสดงผล จากภาพด้านบน 

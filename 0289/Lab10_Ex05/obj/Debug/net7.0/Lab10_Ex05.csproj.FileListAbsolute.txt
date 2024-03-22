@@ -1,0 +1,4 @@
+C:\GitHubRepos\__ENGEDU\03376836-OOP-2565\Week-10\03376836-OOP-2566-Lab-10\0289\Lab10_Ex05\obj\Debug\net7.0\Lab10_Ex05.GeneratedMSBuildEditorConfig.editorconfig
+C:\GitHubRepos\__ENGEDU\03376836-OOP-2565\Week-10\03376836-OOP-2566-Lab-10\0289\Lab10_Ex05\obj\Debug\net7.0\Lab10_Ex05.AssemblyInfoInputs.cache
+C:\GitHubRepos\__ENGEDU\03376836-OOP-2565\Week-10\03376836-OOP-2566-Lab-10\0289\Lab10_Ex05\obj\Debug\net7.0\Lab10_Ex05.AssemblyInfo.cs
+C:\GitHubRepos\__ENGEDU\03376836-OOP-2565\Week-10\03376836-OOP-2566-Lab-10\0289\Lab10_Ex05\obj\Debug\net7.0\Lab10_Ex05.csproj.CoreCompileInputs.cache
