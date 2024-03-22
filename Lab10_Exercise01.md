@@ -70,3 +70,13 @@ dotnet run --project Lab10_Ex01
 ![image](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-10/assets/144197034/0abd6d63-9dd3-4283-bdd1-24fafe351764)
 
 7.อธิบายสิ่งที่พบในการทดลอง
+
+การทดลองนี้เป็นการสร้างอ็อบเจกต์ของคลาสทั้ง 4 คลาส: Shape, Circle, Rectangle, และ Triangle และเมื่อสร้างอ็อบเจกต์แต่ละตัว จะมีการแสดงข้อความที่ถูกนิยามในคอนสตรักเตอร์ของแต่ละคลาส
+เมื่อสร้างอ็อบเจกต์ของ Shape จะแสดงข้อความ "This is some shape"
+
+เมื่อสร้างอ็อบเจกต์ของ Circle จะแสดงข้อความ "This is a circle"
+
+เมื่อสร้างอ็อบเจกต์ของ Rectangle จะแสดงข้อความ "This is a rectangle"
+
+เมื่อสร้างอ็อบเจกต์ของ Triangle จะแสดงข้อความ "This is a triangle"
+เราจะเห็นการแสดงผล จากภาพด้านบน 
