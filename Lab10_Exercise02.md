@@ -69,3 +69,14 @@ dotnet run --project Lab10_Ex02
 ![image](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-10/assets/144197034/3297c036-e5fb-4f5b-ac99-27f7c73923f2)
 
 7.อธิบายสิ่งที่พบในการทดลอง
+
+จากการทดลองนี้เป็นการสร้างคลาสที่สืบทอดจากคลาส Shape เพื่อสร้างอ็อบเจกต์ของรูปทรงต่างๆ โดยแต่ละคลาสที่สืบทอดจะมีการแสดงข้อความต่างกันในคอนสตรักเตอร์
+สรุป
+เมื่อสร้างอ็อบเจกต์ของ Circle จะแสดงข้อความ "This is some shape" และ "This is a circle"
+
+เมื่อสร้างอ็อบเจกต์ของ Rectangle จะแสดงข้อความ "This is some shape" และ "This is a rectangle"
+
+เมื่อสร้างอ็อบเจกต์ของ Triangle จะแสดงข้อความ "This is some shape" และ "This is a triangle"
+ดังภาพด้านบนที่มีการแสดงผลออกมา
+
+
