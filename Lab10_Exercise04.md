@@ -80,6 +80,16 @@ dotnet run --project Lab10_Ex04
 
 ![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-10/assets/144197034/9358f351-2879-43f7-a50f-7e1d9fd627fc)
 
+ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
+
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-10/assets/144197034/a3e5cba8-d1b1-4672-8b7e-b22e6e62df46)
+
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-10/assets/144197034/2db2fd44-ecaa-41a7-9103-d1f2bbb6608e)
+
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-10/assets/144197034/6ce17644-bd2e-48d6-b641-15e23aa3c28d)
+
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-10/assets/144197034/4729c7b1-cf62-4739-bfb8-c9492976ac71)
+
 7.อธิบายสิ่งที่พบในการทดลอง
 
 ข้อผิดพลาดในโค้ดคือการสร้างคลาส Shape ที่มีคอนสตรักเตอร์สองแบบซึ่งทำให้เกิดข้อผิดพลาดเนื่องจากไม่สามารถสร้างอ็อบเจกต์จากคลาสที่มีคอนสตรักเตอร์ที่ประกาศเป็น private ได้ การเปลี่ยนคอนสตรักเตอร์เป็น public
