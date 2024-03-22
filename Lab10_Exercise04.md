@@ -8,6 +8,8 @@
 dotnet new console --name Lab10_Ex04
 ```
 
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-10/assets/144197034/e0097a3a-9dbd-40b5-a4df-b9ce82e5be7e)
+
 2.เปลี่ยน code ให้เป็นดังต่อไปนี้
 
 ```cs
@@ -50,6 +52,10 @@ class Triangle :Shape
 }
 ```
 
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-10/assets/144197034/15e8e1f7-18e8-4793-a07c-1207a885975a)
+
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-10/assets/144197034/a303f38c-d908-440c-b2a3-6bbc4f547c6c)
+
 3.Build project โดยการใช้คำสั่ง
 
 ```cmd
@@ -60,6 +66,10 @@ dotnet build  Lab10_Ex04
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-10/assets/144197034/d80830d2-1539-4ba6-a006-803058a7207d)
+
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-10/assets/144197034/3fe69134-6655-4b5a-9fbd-2affa0d8e100)
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -67,5 +77,7 @@ dotnet run --project Lab10_Ex04
 ```
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+
+![ภาพ](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-10/assets/144197034/9358f351-2879-43f7-a50f-7e1d9fd627fc)
 
 7.อธิบายสิ่งที่พบในการทดลอง
