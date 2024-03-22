@@ -75,3 +75,13 @@ dotnet run --project Lab10_Ex03
 ![image](https://github.com/AnchisaPhetnoi/03376836-OOP-2566-Lab-10/assets/144197034/e4d5e611-688c-4580-b1ff-0d6754579d56)
 
 7.อธิบายสิ่งที่พบในการทดลอง
+
+การทดลองนี้มีการสร้างคลาส Shape ที่มีคอนสตรักเตอร์ทั้งสองรูปแบบ: คอนสตรักเตอร์เริ่มต้นที่ไม่มีพารามิเตอร์และคอนสตรักเตอร์ที่รับพารามิเตอร์จำนวนด้านของรูปทรง และแสดงจำนวนด้านของรูปทรงในข้อความที่แสดงออกมา
+สรุป
+เมื่อสร้างอ็อบเจกต์ของ Circle จะแสดงข้อความ "This is some shape with unknown side" และ "This is a circle"
+
+เมื่อสร้างอ็อบเจกต์ของ Rectangle จะแสดงข้อความ "This is some shape with 4 sides" และ "This is a rectangle"
+
+เมื่อสร้างอ็อบเจกต์ของ Triangle จะแสดงข้อความ "This is some shape with 3 sides" และ "This is a triangle"
+
+จากการทดลองดังภาพด้านบน
