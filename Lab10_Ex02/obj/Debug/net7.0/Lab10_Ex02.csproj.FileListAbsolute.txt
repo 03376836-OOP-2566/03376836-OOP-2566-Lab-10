@@ -1,0 +1,14 @@
+C:\LAB10\Lab10_Ex02\bin\Debug\net7.0\Lab10_Ex02.exe
+C:\LAB10\Lab10_Ex02\bin\Debug\net7.0\Lab10_Ex02.deps.json
+C:\LAB10\Lab10_Ex02\bin\Debug\net7.0\Lab10_Ex02.runtimeconfig.json
+C:\LAB10\Lab10_Ex02\bin\Debug\net7.0\Lab10_Ex02.dll
+C:\LAB10\Lab10_Ex02\bin\Debug\net7.0\Lab10_Ex02.pdb
+C:\LAB10\Lab10_Ex02\obj\Debug\net7.0\Lab10_Ex02.GeneratedMSBuildEditorConfig.editorconfig
+C:\LAB10\Lab10_Ex02\obj\Debug\net7.0\Lab10_Ex02.AssemblyInfoInputs.cache
+C:\LAB10\Lab10_Ex02\obj\Debug\net7.0\Lab10_Ex02.AssemblyInfo.cs
+C:\LAB10\Lab10_Ex02\obj\Debug\net7.0\Lab10_Ex02.csproj.CoreCompileInputs.cache
+C:\LAB10\Lab10_Ex02\obj\Debug\net7.0\Lab10_Ex02.dll
+C:\LAB10\Lab10_Ex02\obj\Debug\net7.0\refint\Lab10_Ex02.dll
+C:\LAB10\Lab10_Ex02\obj\Debug\net7.0\Lab10_Ex02.pdb
+C:\LAB10\Lab10_Ex02\obj\Debug\net7.0\Lab10_Ex02.genruntimeconfig.cache
+C:\LAB10\Lab10_Ex02\obj\Debug\net7.0\ref\Lab10_Ex02.dll
