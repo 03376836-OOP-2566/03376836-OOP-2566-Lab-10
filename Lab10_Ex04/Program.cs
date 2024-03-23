@@ -1,11 +1,11 @@
-﻿var circle = new Circle();
+﻿﻿var circle = new Circle();
 var rectangle = new Rectangle();
 var triangle = new Triangle();
 
 class Shape
 {
     private int? NumOfSide;
-    private Shape()
+    public Shape()
     {
         System.Console.WriteLine("This is some shape with unknown side");
     }
