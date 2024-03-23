@@ -5,32 +5,37 @@ var triangle = new Triangle();
 class Shape
 {
     private int? NumOfSide;
-    public Shape()
+
+    private Shape()
     {
-        System.Console.WriteLine("This is some shape with unknown side");
     }
-    public Shape(int NumOfSide)
+
+    public Shape(int NumOfSide) : this()
     {
-        System.Console.WriteLine($"This is some shape with {NumOfSide} sides" );
+        this.NumOfSide = NumOfSide;
+        System.Console.WriteLine($"This is some shape with {NumOfSide} sides");
     }
 }
-class Circle :Shape
+
+class Circle : Shape
 {
-    public Circle():base()
+    public Circle() : base(0)
     {
         System.Console.WriteLine("This is a circle");
     }
 }
-class Rectangle :Shape
+
+class Rectangle : Shape
 {
-    public Rectangle(): base(4)
+    public Rectangle() : base(4)
     {
         System.Console.WriteLine("This is a rectangle");
     }
 }
-class Triangle :Shape
+
+class Triangle : Shape
 {
-   public Triangle() : base(3)
+    public Triangle() : base(3) // ส่งค่า 3 เพื่อระบุว่าเป็นสามเหลี่ยม (มี 3 ด้าน)
     {
         System.Console.WriteLine("This is a triangle");
     }
