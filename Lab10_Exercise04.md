@@ -59,6 +59,7 @@ dotnet build  Lab10_Ex04
 ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+### แก้ไขแล้ว
 ![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-10/assets/144195555/0b730e37-25aa-4faf-8695-9e57808d1747)
 ### ไม่สามารถ Build ได้ เพราะ Shape.Shape() ไม่สามารถเข้าถึงได้ เพราะเป็น private แก้จากเปลี่ยน private Shape() เป็น public Shape()
 5.Run project โดยการใช้คำสั่ง
@@ -68,6 +69,7 @@ dotnet run --project Lab10_Ex04
 ```
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+### แก้ไขแล้ว
 ![image](https://github.com/VisawaPRO/03376836-OOP-2566-Lab-10/assets/144195555/7f0de0a3-8003-47f6-9306-310284727e33)
 ### ไม่สามารถ Run ได้ เพราะ Shape.Shape() ไม่สามารถเข้าถึงได้ เพราะเป็น private แก้จากเปลี่ยน private Shape() เป็น public Shape()
 7.อธิบายสิ่งที่พบในการทดลอง
