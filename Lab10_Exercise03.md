@@ -60,6 +60,8 @@ dotnet build  Lab10_Ex03
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+![3](https://github.com/Siriratda/03376836-OOP-2566-Lab-10/assets/144195995/3d74c121-c0ea-4111-8974-a9ac98bac7ac)
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -68,4 +70,15 @@ dotnet run --project Lab10_Ex03
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+![3 1](https://github.com/Siriratda/03376836-OOP-2566-Lab-10/assets/144195995/71b16614-72a5-4a48-a68a-e6f8aa821ea2)
+
 7.อธิบายสิ่งที่พบในการทดลอง
+
+สามารถ Run ได้ เพราะ ในคลาสที่สืบทอด (Circle, Rectangle, Triangle) มีการใช้ base() เพื่อเรียก Constructor ของคลาสฐาน (Shape) ซึ่งจะทำให้ Constructor ของ Shape ที่รับพารามิเตอร์ถูกเรียกใช้
+โปรแกรมจะแสดงผล
+This is some shape with unknown side
+This is a circle
+This is some shape with 4 sides
+This is a rectangle
+This is some shape with 3 sides
+This is a triangle
