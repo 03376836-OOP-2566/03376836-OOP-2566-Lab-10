@@ -55,6 +55,8 @@ dotnet build  Lab10_Ex02
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+![2](https://github.com/Siriratda/03376836-OOP-2566-Lab-10/assets/144195995/f047dedb-7dee-459f-8269-020871272ca0)
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -63,4 +65,15 @@ dotnet run --project Lab10_Ex02
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+![2 1](https://github.com/Siriratda/03376836-OOP-2566-Lab-10/assets/144195995/6abb62cf-e945-4733-86e5-a25aa1281157)
+
 7.อธิบายสิ่งที่พบในการทดลอง
+
+สามารถ Run ได้ ปกติ
+โปรแกรมจะแสดงผล
+This is some shape
+This is a circle
+This is some shape
+This is a rectangle
+This is some shape
+This is a triangle

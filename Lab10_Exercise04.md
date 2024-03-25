@@ -60,6 +60,8 @@ dotnet build  Lab10_Ex04
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+![4](https://github.com/Siriratda/03376836-OOP-2566-Lab-10/assets/144195995/759b9773-5da6-4662-8f09-2459f322d6fd)
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -68,4 +70,15 @@ dotnet run --project Lab10_Ex04
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+![4 1](https://github.com/Siriratda/03376836-OOP-2566-Lab-10/assets/144195995/730b990b-647f-498b-bd64-35f06cfce809)
+
 7.อธิบายสิ่งที่พบในการทดลอง
+
+ไม่สามารถ Run ได้ เพราะ Shape.Shape() ไม่สามารถเข้าถึงได้ เพราะเป็น private แก้จากเปลี่ยน private Shape() เป็น public Shape()
+โปรแกรมจะแสดงผล
+This is some shape with unknown side
+This is a circle
+This is some shape with 4 sides
+This is a rectangle
+This is some shape with 3 sides
+This is a triangle
