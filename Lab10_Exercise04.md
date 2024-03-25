@@ -60,6 +60,9 @@ dotnet build  Lab10_Ex04
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+<img width="701" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-10/assets/144195963/a11ea846-3087-4208-96eb-a9298f0ef338">
+
+แก้ไม่ได้
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -68,4 +71,16 @@ dotnet run --project Lab10_Ex04
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+<img width="689" alt="image" src="https://github.com/chatladawongkanyon/03376836-OOP-2566-Lab-10/assets/144195963/86f37c23-2bc8-4fae-8169-b958d5d2100d">
+
+แก้ไม่ได้
+
 7.อธิบายสิ่งที่พบในการทดลอง
+
+ในกรณีที่โปรแกรมสามารถใช้งานได้ โปรแกรมจะแสดงผล
+This is some shape with unknown side
+This is a circle
+This is some shape with 4 sides
+This is a rectangle
+This is some shape with 3 sides
+This is a triangle
