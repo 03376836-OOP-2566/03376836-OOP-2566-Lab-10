@@ -60,6 +60,8 @@ dotnet build  Lab10_Ex05
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
 
+![5](https://github.com/Siriratda/03376836-OOP-2566-Lab-10/assets/144195995/ef8f42f8-8124-4344-9855-b16b44d8c1ed)
+
 5.Run project โดยการใช้คำสั่ง
 
 ```cmd
@@ -68,4 +70,14 @@ dotnet run --project Lab10_Ex05
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
 
+![5 1](https://github.com/Siriratda/03376836-OOP-2566-Lab-10/assets/144195995/920ba05c-699e-405c-be5f-499ae3c8e83c)
+
 7.อธิบายสิ่งที่พบในการทดลอง
+
+ไม่สามารถ Run ได้ เพราะ Shape.Shape() ไม่สามารถเข้าถึงได้ เพราะเป็น private แก้จากเพิ่มพารามิเตอร์ isSpecial เพื่อสร้างเงื่อนไขพิเศษ
+โปรแกรมจะแสดงผล
+This is some shape with 0 sides
+This is a circle
+This is some shape with 4 sides
+This is a rectangle
+This is a triangle
