@@ -55,6 +55,7 @@ dotnet build  Lab10_Ex01
 ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-10/assets/144195708/3bf96f93-a18b-4591-a177-ac2b463ed98b)
 
 5.Run project โดยการใช้คำสั่ง
 
@@ -63,5 +64,11 @@ dotnet run --project Lab10_Ex01
 ```
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-10/assets/144195708/64288faa-bff0-4ee6-a73a-8f99901699a3)
 
 7.อธิบายสิ่งที่พบในการทดลอง
+แสดงผล
+This is some shape
+This is a circle
+This is a rectangle
+This is a triangle
