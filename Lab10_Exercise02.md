@@ -54,6 +54,7 @@ dotnet build  Lab10_Ex02
 ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-10/assets/144195708/907c755a-6bd9-4752-ad7f-eeea8a1190d3)
 
 5.Run project โดยการใช้คำสั่ง
 
@@ -62,5 +63,7 @@ dotnet run --project Lab10_Ex02
 ```
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-10/assets/144195708/2d18d274-50d2-49fe-8435-a38b48816679)
 
 7.อธิบายสิ่งที่พบในการทดลอง
+เมื่อสร้างอ็อบเจกต์ Circle, Rectangle, และ Triangle จากคลาส Circle, Rectangle, และ Triangle ตามลำดับ

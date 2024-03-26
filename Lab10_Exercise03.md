@@ -59,6 +59,7 @@ dotnet build  Lab10_Ex03
 ถ้ามีที่ผิดพลาดในโปรแกรม ให้แก้ไขให้ถูกต้อง
 
 4.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 3
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-10/assets/144195708/c0091fc7-47e1-4a16-b2ff-91d1add3a829)
 
 5.Run project โดยการใช้คำสั่ง
 
@@ -67,5 +68,11 @@ dotnet run --project Lab10_Ex03
 ```
 
 6.บันทึกผลที่ได้จากการรันคำสั่งในข้อ 5
+![image](https://github.com/ThanchiraCharakhon099/03376836-OOP-2566-Lab-10/assets/144195708/7e8a8c04-c196-4b36-9bed-735f8abe794b)
 
 7.อธิบายสิ่งที่พบในการทดลอง
+ในคลาส Shape มีการสร้างสองคอนสตรักเตอร์ คือ:
+
+public Shape(): ที่ไม่รับพารามิเตอร์ และใช้สำหรับแสดงข้อความ "This is some shape with unknown side" 
+ 
+public Shape(int NumOfSide): ที่รับพารามิเตอร์ NumOfSide เพื่อแสดงข้อความ "This is some shape with {NumOfSide} sides" 
